@@ -33,7 +33,7 @@ struct ContentView: View {
             Image(systemName: "scribble.variable")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swiftful Thinking")
+            Text("Swiftful")
             
             Button("Click me!") {
                 
