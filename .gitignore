@@ -1,0 +1,62 @@
+# Xcode and macOS
+.DS_Store
+UserInterfaceState.xcuserstate
+xcuserdata/
+
+# Build products
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# SwiftPM
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Xcode workspace
+xcworkspace/
+project.xcworkspace/
+
+# SPM Xcode integration
+.idea/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Fastlane
+fastlane/report.xml
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Archives
+*.xcarchive
+
+# App data
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~.nib
+
+# Preview Thumbnails
+**/Preview\ Assets/*.png
+
+# Playground stuff
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Plugin build folders
+.plugins/
