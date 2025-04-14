@@ -34,6 +34,7 @@
  GitIgnore
  ReadMe
  Releases, Tags, Versioning
+ "GIT Flow"
  
  */
 
